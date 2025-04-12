@@ -1,0 +1,8 @@
+{
+  "name": "renovate-preset-test",
+  "version": "1.0.0",
+  "description": "Test for HeroDevs NES Renovate preset",
+  "dependencies": {
+    "jquery": "1.5.1"
+  }
+}
