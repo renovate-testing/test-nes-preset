@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Test for HeroDevs NES Renovate preset",
   "dependencies": {
-    "jquery": "1.5.1"
+    "jquery": "1.12.4"
   }
 }
